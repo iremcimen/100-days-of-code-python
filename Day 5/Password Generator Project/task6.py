@@ -22,8 +22,8 @@ for char in range(0, nr_numbers):
 random.shuffle(password_list)
 print(password_list)
 
-pasword = ""
+password = ""
 for char in password_list:
-    pasword += char
+    password += char
 
-print(f"\nYour password is: {pasword}")
+print(f"\nYour password is: {password}")
