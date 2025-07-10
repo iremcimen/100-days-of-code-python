@@ -6,6 +6,10 @@ This repository contains my daily progress and mini projects while following the
 - Day 1: Band Name Generator
 - Day 2: Tip Calculator
 - Day 3: Treasure Island
-- Day 4: Rock Paper Scissors Game 
+- Day 4: Rock Paper Scissors Game
+- Day 5: Password Generator Project
+- Day 6: Escaping the Maze Project
+- Day 7: Hangman Game
+- Day 8: Function Parameters & Caesar Cipher Project
 
 Follow my journey 🚀
