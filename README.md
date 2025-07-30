@@ -11,5 +11,6 @@ This repository contains my daily progress and mini projects while following the
 - Day 6: Escaping the Maze Project
 - Day 7: Hangman Game
 - Day 8: Function Parameters & Caesar Cipher Project
+- Day 9: Dictionaries, Nesting & Blind Auction Project
 
 Follow my journey 🚀
