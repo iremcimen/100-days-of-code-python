@@ -18,4 +18,3 @@ The result is stored in a new dictionary called student_grades.
 
 🚀 Technologies Used
 - Python 3
-
