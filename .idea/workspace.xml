@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0eb99f2c-fa29-41a3-b815-6cdfb02de86b" name="Changes" comment="Add Day 10: Calculator Project" />
+    <list default="true" id="0eb99f2c-fa29-41a3-b815-6cdfb02de86b" name="Changes" comment="Refactor README files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -232,7 +234,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753962055464</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Rename Folders">
+      <option name="closed" value="true" />
+      <created>1753962303510</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1753962303510</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Refactor README files">
+      <option name="closed" value="true" />
+      <created>1753963206567</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1753963206568</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -249,6 +267,8 @@
     <MESSAGE value="Add Blind Auction Project" />
     <MESSAGE value="Add Day 9: Blind Auction Project" />
     <MESSAGE value="Add Day 10: Calculator Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Day 10: Calculator Project" />
+    <MESSAGE value="Rename Folders" />
+    <MESSAGE value="Refactor README files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor README files" />
   </component>
 </project>
