@@ -13,5 +13,6 @@ This repository contains my daily progress and mini projects while following the
 - Day 08: Function Parameters & Caesar Cipher Project
 - Day 09: Dictionaries, Nesting & Blind Auction Project
 - Day 10: Functions with Outputs & Calculator Project
+- Day 11: Blackjack Game Project
 
 Follow my journey 🚀
