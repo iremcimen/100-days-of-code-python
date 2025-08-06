@@ -14,5 +14,6 @@ This repository contains my daily progress and mini projects while following the
 - Day 09: Dictionaries, Nesting & Blind Auction Project
 - Day 10: Functions with Outputs & Calculator Project
 - Day 11: Blackjack Game Project
+- Day 12: Number Guessing Game Project
 
 Follow my journey 🚀
